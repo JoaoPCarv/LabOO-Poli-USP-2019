@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649871565 source:c:\users\administrador.000\desktop\poli-usp\numérico\ep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

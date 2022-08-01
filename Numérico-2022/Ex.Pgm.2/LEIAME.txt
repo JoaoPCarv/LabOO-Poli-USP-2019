@@ -1,0 +1,24 @@
+Exercício-Programa 2
+
+Aluno: João Pedro Lima Affonso de Carvalho NUSP: 11260846
+
+O programa foi desenvolvido no Code::Blocks, utilizando o compilador GNU GCC padrão.
+
+Abra a pasta EP2 e o aplicativo main.
+
+A execução é direta, basta executar main ou abrir e executar o arquivo main.c pelo Code::Blocks que a interface desenvolvida já é apresentada.
+
+Após isso, selecione a opção desejada:
+
+1- Volume do cubo e do tetraedro:
+
+Informe o número de n de nós desejado (6,8,10) e o programa imprime tanto o volume do cubo quanto o do tetraedro para n iterações.
+
+2- Área da regiao no primeiro quadrante:
+
+Informe o número de n de nós desejado (6,8,10) e o programa imprime o valor da integral no primeiro quadrante fornecida no enunciado, que resulta em 2/3.
+
+3- Área da superficie descrita por z = e^(y/x):
+
+Informe o número de n de nós desejado (6,8,10) e o programa imprime a área da superfície descrita por z = e^(y/x), para os limites 0.1 <= x <= 0.5, x^3 <= y <= x^2.
+
